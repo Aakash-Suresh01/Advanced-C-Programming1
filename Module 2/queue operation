@@ -1,0 +1,13 @@
+Here are common queue operations available for manipulating data elements in C:
+
+enqueue(data): Adds an element to the end(Rear) of the queue.
+
+dequeue(): Removes and returns the element at the front of the queue.
+
+peek(): Returns the element at the front of the queue without removing it.
+
+isEmpty(): Checks if the queue is empty(Front = Rear =NULL).
+
+size(): Returns the number of elements in the queue.
+
+clear(): Empties the queue, removing all elements.
